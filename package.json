@@ -84,7 +84,8 @@
     "access": "public"
   },
   "storybook": {
-    "displayName": "storybook-outline-addon",
+    "displayName": "Storybook Outline Addon",
+    "unsupportedFrameworks": ["react-native"],
     "supportedFrameworks": [
       "react",
       "vue",
