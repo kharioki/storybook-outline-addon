@@ -1,17 +1,20 @@
 {
-  "name": "storybook-addon-kit",
-  "version": "0.0.0",
-  "description": "everything you need to build a Storybook addon",
+  "name": "storybook-outline-addon",
+  "version": "0.1.0",
+  "description": "A Storybook addon to diplay css outlines in our stories",
   "keywords": [
     "storybook-addons",
+    "appearance",
     "style",
-    "test"
+    "css",
+    "layout",
+    "debug"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/storybookjs/storybook-addon-kit"
+    "url": "https://github.com/kharioki/storybook-outline-addon"
   },
-  "author": "winkerVSbecks",
+  "author": "kharioki",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
