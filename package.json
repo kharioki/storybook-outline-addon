@@ -1,6 +1,6 @@
 {
   "name": "@kharioki/storybook-outline-addon",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A Storybook addon to diplay css outlines in our stories",
   "keywords": [
     "storybook-addons",
@@ -84,7 +84,9 @@
   },
   "storybook": {
     "displayName": "Storybook Outline Addon",
-    "unsupportedFrameworks": ["react-native"],
+    "unsupportedFrameworks": [
+      "react-native"
+    ],
     "supportedFrameworks": [
       "react",
       "vue",
