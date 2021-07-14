@@ -1,6 +1,6 @@
 {
   "name": "@kharioki/storybook-outline-addon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Storybook addon to diplay css outlines in our stories",
   "keywords": [
     "storybook-addons",
