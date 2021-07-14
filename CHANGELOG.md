@@ -1,3 +1,17 @@
+# v0.1.3 (Wed Jul 14 2021)
+
+#### ⚠️ Pushed to `main`
+
+- update changelog ([@kharioki](https://github.com/kharioki))
+- npmrc file ([@kharioki](https://github.com/kharioki))
+- addon name ([@kharioki](https://github.com/kharioki))
+
+#### Authors: 1
+
+- Tony Kharioki ([@kharioki](https://github.com/kharioki))
+
+---
+
 # v0.1.2 (Wed Jul 14 2021)
 
 #### ⚠️ Pushed to `main`
