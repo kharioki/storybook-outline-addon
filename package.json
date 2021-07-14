@@ -84,7 +84,7 @@
     "access": "public"
   },
   "storybook": {
-    "displayName": "@kharioki/storybook-outline-addon",
+    "displayName": "storybook-outline-addon",
     "supportedFrameworks": [
       "react",
       "vue",
