@@ -4,21 +4,21 @@ import { Icons, IconButton } from "@storybook/components";
 import { TOOL_ID } from "./constants";
 
 export const Tool = () => {
-  const [{ myAddon }, updateGlobals] = useGlobals();
+  const [{ outlineActive }, updateGlobals] = useGlobals();
 
-  const toggleMyTool = useCallback(
+  const toggleOutline = useCallback(
     () =>
       updateGlobals({
-        myAddon: !myAddon,
+        outlineActive: !outlineActive,
       }),
-    [myAddon]
+    [outlineActive]
   );
   return (
     <IconButton
       key={TOOL_ID}
-      active={myAddon}
+      active={outlineActive}
       title="Apply outlines to the preview"
-      onClick={toggleMyTool}
+      onClick={toggleOutline}
     >
       <Icons icon="outline" />
     </IconButton>
